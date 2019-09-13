@@ -1,0 +1,32 @@
+total 112
+drwxr-xr-x  15 suhc  staff    480  9 13 19:22 .
+drwxr-xr-x  18 suhc  staff    576  9 13 18:00 ..
+-rw-r--r--@  1 suhc  staff   6148  9 13 08:31 .DS_Store
+drwxr-xr-x  14 suhc  staff    448  9 13 19:21 .git
+-rw-r--r--   1 suhc  staff     11  9 13 14:28 .gitignore
+-rw-r--r--   1 suhc  staff   1065  9 12 19:28 LICENSE
+-rw-r--r--   1 suhc  staff     44  9 12 19:28 README.md
+-rwxr-xr-x@  1 suhc  staff   4820  9 13 08:26 day01.sh
+-rwxr-xr-x@  1 suhc  staff  10201  9 13 14:27 day02.sh
+-rwxr-xr-x@  1 suhc  staff   3127  9 13 17:57 day03.sh
+-rwxr-xr-x@  1 suhc  staff     52  9 13 19:22 day04.sh
+-rw-r--r--   1 suhc  staff      0  9 13 19:22 error.sh
+-rwxr-xr-x@  1 suhc  staff     34  9 13 14:43 fileA.sh
+-rwxr-xr-x@  1 suhc  staff     33  9 13 14:34 fileB.sh
+-rw-r--r--   1 suhc  staff      0  9 13 19:22 ls.sh
+total 120
+drwxr-xr-x  15 suhc  staff    480  9 13 19:23 .
+drwxr-xr-x  18 suhc  staff    576  9 13 18:00 ..
+-rw-r--r--@  1 suhc  staff   6148  9 13 08:31 .DS_Store
+drwxr-xr-x  14 suhc  staff    448  9 13 19:22 .git
+-rw-r--r--   1 suhc  staff     11  9 13 14:28 .gitignore
+-rw-r--r--   1 suhc  staff   1065  9 12 19:28 LICENSE
+-rw-r--r--   1 suhc  staff     44  9 12 19:28 README.md
+-rwxr-xr-x@  1 suhc  staff   4820  9 13 08:26 day01.sh
+-rwxr-xr-x@  1 suhc  staff  10201  9 13 14:27 day02.sh
+-rwxr-xr-x@  1 suhc  staff   3127  9 13 17:57 day03.sh
+-rwxr-xr-x@  1 suhc  staff    117  9 13 19:23 day04.sh
+-rw-r--r--@  1 suhc  staff      0  9 13 19:22 error.sh
+-rwxr-xr-x@  1 suhc  staff     34  9 13 14:43 fileA.sh
+-rwxr-xr-x@  1 suhc  staff     33  9 13 14:34 fileB.sh
+-rw-r--r--@  1 suhc  staff    818  9 13 19:22 ls.sh
